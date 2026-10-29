@@ -28,12 +28,6 @@ var me = new SoftwareDeveloper();
 me.SayHi();
 ```
 
-## 📝 روابطي
-
-- الموقع الشخصي: TODO
-- LinkedIn: TODO
-- البريد الإلكتروني: TODO
-
 ## 🔧 التقنيات والأدوات
 
 **Backend (ASP.NET):**
