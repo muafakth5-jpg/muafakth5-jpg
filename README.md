@@ -1,4 +1,4 @@
-## Hi there 👋
+## Best regards to you 👋
 
 <!--
 **muafakth5-jpg/muafakth5-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
