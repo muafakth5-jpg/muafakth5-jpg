@@ -1,125 +1,71 @@
-# أهلاً بك 👋
+## Hey, I'm [Mowaffak Al-Tahhan](https://github.com/muafakth5)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
+<h1>Welcome to my corner of the digital world..</h1>
 
 [
 
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
-](https://github.com/ellerbrock/open-source-badge/)
+](https://www.linkedin.com/in/)
+[
 
+![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
+](mailto:muafakth5@gmail.com)
+[
+
+!<p align="left"> <img src="https://komarev.com/ghpvc/?username=muafakth5" alt="muafakth5" /> </p>
+
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
+## :computer: Technologies I Love
+* ASP.NET Core
+* Flutter
+* Web Development (Backend & Frontend)
+* Building APIs and Mobile Apps
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muafakth5&layout=compact">
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=cs,dart,html,css,js,ts,sqlite" />
+
+## Technologies I Use
+<img src="https://skillicons.dev/icons?i=dotnet,flutter,firebase,bootstrap,git,github,docker,visualstudio,vscode,androidstudio,postman" />
+
+## Who am I?
 ```csharp
-using System;
-
-public class SoftwareDeveloper
+public class WhoAmI
 {
-    public string Name { get; } = "Mowaffak Al-Tahhan";
-    public string Role { get; } = "ASP.NET & Flutter Developer";
-    public string[] LanguagesSpoken { get; } = { "ar_SY", "en_US" };
+    public string User { get; } = "Mowaffak Al-Tahhan";
+    public string CurrentWork { get; } = "Building APIs & Mobile Apps";
 
-    public void SayHi() =>
-        Console.WriteLine("شكراً لزيارتك، أتمنى تجد في أعمالي ما يفيدك.");
+    public string[] Hobbies { get; } =
+    {
+        "TODO: Hobby 1",
+        "TODO: Hobby 2",
+        "Being up all night chasing that ONE BUG..."
+    };
+
+    public string GetCity() => "TODO: City, Country";
+
+    public void Ambitions()
+    {
+        LearnSomethingNew();
+        BuildAwesomeProducts();
+        // Assume 10 more awesome ambitions here ;)
+    }
 }
-
-var me = new SoftwareDeveloper();
-me.SayHi();
 ```
 
-## 🔧 التقنيات والأدوات
+## Current Work
+* 🔭 Building **mobile apps using Flutter**
+* 🌱 Developing **Web APIs with ASP.NET Core**
+* TODO: your current project
 
-**Backend (ASP.NET):**
+## Other Stuff
+- :octocat: [My Resume](TODO_CV_LINK)
+- If you have any suggestions for this README, feel free to open a pull request. And if you like it, go ahead and use it for yourself (P.S. Star it too! ⭐)
 
 
 
-![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
-
-
-
-
-![.NET](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
-
-
-
-
-![ASP.NET Core](https://img.shields.io/badge/Web-ASP.NET_Core-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
-
-
-
-
-![Entity Framework](https://img.shields.io/badge/ORM-Entity_Framework-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
-
-
-
-
-![SQL Server](https://img.shields.io/badge/Database-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=6aa6f8)
-
-
-
-**Mobile (Flutter):**
-
-
-
-![Flutter](https://img.shields.io/badge/Mobile-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
-
-
-
-
-![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-
-
-
-
-![Firebase](https://img.shields.io/badge/Backend-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
-
-
-
-**الأدوات:**
-
-
-
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-
-
-
-
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-
-
-
-
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
-
-
-
-![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=6aa6f8)
-
-
-
-
-![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
-
-
-
-## 📈 إحصائيات GitHub
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" />
-</a>
-
-## 🗂️ أبرز المشاريع
-
-<a href="https://github.com/YOUR_USERNAME/TODO_ASPNET_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=TODO_ASPNET_REPO&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ASP.NET project" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/TODO_FLUTTER_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=TODO_FLUTTER_REPO&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Flutter project" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide=issues)
